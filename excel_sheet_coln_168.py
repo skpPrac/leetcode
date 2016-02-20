@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/excel-sheet-column-title/
+
 class Solution:
     # @param {integer} n
     # @return {string}
