@@ -18,3 +18,4 @@ class Solution:
                 n = n - 1
                 rem = 26
             return self.excel(n, '{}{}'.format(chr(rem+64), out))
+
